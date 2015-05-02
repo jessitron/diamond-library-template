@@ -1,4 +1,4 @@
-(ns leiningen.new.jessitron
+(ns leiningen.new.diamond-library
   (:require [leiningen.new.templates :refer [renderer sanitize year ->files]]
             [leiningen.core.main :as main]))
 
